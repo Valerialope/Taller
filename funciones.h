@@ -1,0 +1,1 @@
+void calcular_ahorros(double inversion_mensual, double tasa_interes_anual, int meses);
